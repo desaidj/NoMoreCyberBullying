@@ -9,6 +9,7 @@
 [![Python](http://img.shields.io/badge/Made%20with-Python-green)](https://www.python.org/)
 </div>
 
+
 NoMoreCyberBullying a comprehensive platform designed to combat cyberbullying and promote a safer online environment. Built with Flask and Python, this project aims to identify and report inappropriate content across various social media platforms, empowering users and authorities to take action against cyberbullying.
 
 ## Key Features
@@ -27,7 +28,7 @@ NoMoreCyberBullying a comprehensive platform designed to combat cyberbullying an
 
 ```bash
 # Get the code
-git clone https://github.com/mihir2510/BulliesEye.git
+git clone https://github.com/desaidj/NoMoreCyberBullying.git
 cd BulliesEye/WebApp
 
 # Set up a virtual environment (Unix-based systems)
@@ -65,9 +66,9 @@ For the auto-report generation feature to work, update the sender's email and pa
 
 ### Extension Details
 
-- **Webapp Cyberbully Detector Extension**: Hides (for victims) and highlights (for admins) bullying content, including text and images, on any web page. It can highlight and redact text, as well as hide images. The Chrome extension can be found [here](https://github.com/mihir2510/BulliesEye/tree/master/Extensions/Web-Cyberbully-Detector).
+- **Webapp Cyberbully Detector Extension**: Hides (for victims) and highlights (for admins) bullying content, including text and images, on any web page. It can highlight and redact text, as well as hide images. The Chrome extension can be found [here](https://github.com/desaidj/NoMoreCyberBullying/tree/master/Extensions/Web-Cyberbully-Detector).
 
-- **WhatsApp Cyberbully Detector Extension**: Keeps track of WhatsApp conversations and disables the send message button with a warning if the user tries to send an inappropriate comment. The Chrome extension can be found [here](https://github.com/mihir2510/BulliesEye/tree/master/Extensions/WhatsApp-Cyberbully-Detector).
+- **WhatsApp Cyberbully Detector Extension**: Keeps track of WhatsApp conversations and disables the send message button with a warning if the user tries to send an inappropriate comment. The Chrome extension can be found [here](https://github.com/desaidj/NoMoreCyberBullying/tree/master/Extensions/WhatsApp-Cyberbully-Detector).
 
 ### Telegram Bot
 
