@@ -1,0 +1,9 @@
+__pycache__
+WebApp/__pycache__
+WebApp/app/home/__pycache__
+WebApp/app/__pycache__
+WebApp/app/base/__pycache__
+WebApp/error.log
+*/__pycache/
+*.pyc
+database.db
