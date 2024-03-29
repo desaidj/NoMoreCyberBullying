@@ -5,8 +5,8 @@
 </div>
 
 <div align='center'>
-  <img src="https://flask.palletsprojects.com/en/2.2.x/_images/flask-logo.png" alt="Flask Logo" width="100" height="100">
-  <img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" alt="Python Logo" width="200" height="100">
+  <img src="https://flask.palletsprojects.com/en/2.2.x/_images/flask-logo.png" alt="Flask Logo" width="100" height="50">
+  <img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" alt="Python Logo" width="100" height="50">
 </div>
 
 NoMoreCyberBullying a comprehensive platform designed to combat cyberbullying and promote a safer online environment. Built with Flask and Python, this project aims to identify and report inappropriate content across various social media platforms, empowering users and authorities to take action against cyberbullying.
